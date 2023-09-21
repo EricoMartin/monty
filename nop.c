@@ -2,7 +2,7 @@
 
 /**
  * f_nop - A function that ndoes nothing
- * 
+ *
  * @head: stack head
  * @counter: line_number
  * Return: Nothing
